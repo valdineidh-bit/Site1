@@ -1,4 +1,5 @@
 {
+  
   "name": "workbox-lab",
   "version": "1.0.0",
   "description": "a lab for learning workbox",
@@ -19,3 +20,8 @@
     "workbox-cli": "^3.5.0"
   }
 }
+cd workbox-lab / projeto /
+npm install
+npm install --global workbox-cli
+npm run build
+npm run start
